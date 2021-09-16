@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my world of code, enjoy!
 
 <!--
 **supergreene/supergreene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
